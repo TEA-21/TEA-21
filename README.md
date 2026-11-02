@@ -72,6 +72,7 @@
   <img src="./social-dark.svg" width="100%" alt="Taanush Emmanuel Abraham contact links" />
 </picture>
 <p>
+  <a href="https://taanush-abraham-portfolio.vercel.app">Portfolio</a> · 
   <a href="https://github.com/TEA-21">GitHub</a> · 
   <a href="https://www.linkedin.com/in/taanush-abraham/">LinkedIn</a> · 
   <a href="mailto:taanushabrahm@gmail.com">Email</a> · 
