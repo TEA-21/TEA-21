@@ -68,9 +68,14 @@
 <h2>Make something worth noticing</h2>
 <p>I like working with people who care about craft, context, and shipping the useful version.</p>
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=tea-21&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F165890389%3Fu%3D8977f3e48ace105ccb458bf6d090c191147a5000%26v%3D4&variant=wow&v=wow-social-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/social?username=tea-21&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F165890389%3Fu%3D8977f3e48ace105ccb458bf6d090c191147a5000%26v%3D4&variant=wow&v=wow-social-1&mode=dark" width="100%" alt="Taanush Emmanuel Abraham contact links" />
+  <source media="(prefers-color-scheme: light)" srcset="./social-light.svg" />
+  <img src="./social-dark.svg" width="100%" alt="Taanush Emmanuel Abraham contact links" />
 </picture>
-<p><a href="https://github.com/tea-21">GitHub</a></p>
-<p><sub>Taanush Emmanuel Abraham · Wow Profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<p>
+  <a href="https://github.com/TEA-21">GitHub</a> · 
+  <a href="https://www.linkedin.com/in/taanush-abraham/">LinkedIn</a> · 
+  <a href="mailto:taanushabrahm@gmail.com">Email</a> · 
+  <a href="https://instagram.com/_.tea_21_">Instagram</a> · 
+  <a href="https://x.com/TaanushEmmpnk">X</a>
+</p>
 </div>
