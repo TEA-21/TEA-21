@@ -1,7 +1,5 @@
 <div align="center">
 
-<p><sub>WOW PROFILE · TEA-21 · LIVE</sub></p>
-
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=tea-21&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F165890389%3Fu%3D8977f3e48ace105ccb458bf6d090c191147a5000%26v%3D4&variant=living-identity&label=Taanush%20Emmanuel%20Abraham&v=wow-living-identity-1&mode=light" />
   <img src="https://www.gitskins.com/api/section/hero?username=tea-21&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F165890389%3Fu%3D8977f3e48ace105ccb458bf6d090c191147a5000%26v%3D4&variant=living-identity&label=Taanush%20Emmanuel%20Abraham&v=wow-living-identity-1&mode=dark" width="100%" alt="Taanush Emmanuel Abraham animated Living Identity portrait and ASCII name" />
@@ -41,16 +39,27 @@
   <img src="https://www.gitskins.com/api/section/projects?username=tea-21&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F165890389%3Fu%3D8977f3e48ace105ccb458bf6d090c191147a5000%26v%3D4&repos=tea-21%2FProjectParrot%2Ctea-21%2FShadowOS%2Ctea-21%2FMPMC-Project%2Ctea-21%2FLearning-ML%2Ctea-21%2FTranspiler%2Ctea-21%2FZeroTrust-Finance-Tracker&variant=wow&v=wow-projects-1&mode=dark" width="100%" alt="Taanush Emmanuel Abraham animated project constellation" />
 </picture>
 
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><p><strong><a href="https://github.com/TEA-21/ProjectParrot">ProjectParrot</a></strong></p><p>Selected project from public body of work.</p><p><sub>Python · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><p><strong><a href="https://github.com/TEA-21/ShadowOS">ShadowOS</a></strong></p><p>Selected project from public body of work.</p><p><sub>Rust · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><p><strong><a href="https://github.com/TEA-21/MPMC-Project">MPMC-Project</a></strong></p><p>Selected project from public body of work.</p><p><sub>Python · ⭐ 0</sub></p></td>
+</tr>
+<tr>
+<td width="33%" valign="top"><p><strong><a href="https://github.com/TEA-21/Learning-ML">Learning-ML</a></strong></p><p>Projects learning ml</p><p><sub>Jupyter Notebook · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><p><strong><a href="https://github.com/TEA-21/Transpiler">Transpiler</a></strong></p><p>Selected project from public body of work.</p><p><sub>TypeScript · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><p><strong><a href="https://github.com/TEA-21/ZeroTrust-Finance-Tracker">ZeroTrust-Finance-Tracker</a></strong></p><p>Selected project from public body of work.</p><p><sub>Dart · ⭐ 0</sub></p></td>
+</tr>
+</table>
+
 <p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
 
 <h2>The trail behind the work</h2>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=tea-21&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F165890389%3Fu%3D8977f3e48ace105ccb458bf6d090c191147a5000%26v%3D4&variant=wow&v=wow-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=tea-21&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F165890389%3Fu%3D8977f3e48ace105ccb458bf6d090c191147a5000%26v%3D4&variant=wow&v=wow-heatmap-1&mode=dark" width="100%" alt="Taanush Emmanuel Abraham contribution energy field" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=tea-21&theme=ocean&variant=default&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=tea-21&theme=ocean&variant=default&mode=dark" width="100%" alt="Contribution activity" />
 </picture>
-
-<p align="center"><sub>2 day current streak · 60 active days</sub></p>
 
 <p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
 
