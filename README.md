@@ -35,8 +35,8 @@
 <h2>Built, shipped, shared</h2>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=tea-21&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F165890389%3Fu%3D8977f3e48ace105ccb458bf6d090c191147a5000%26v%3D4&repos=tea-21%2FProjectParrot%2Ctea-21%2FShadowOS%2Ctea-21%2FMPMC-Project%2Ctea-21%2FLearning-ML%2Ctea-21%2FTranspiler%2Ctea-21%2FZeroTrust-Finance-Tracker&variant=wow&v=wow-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=tea-21&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F165890389%3Fu%3D8977f3e48ace105ccb458bf6d090c191147a5000%26v%3D4&repos=tea-21%2FProjectParrot%2Ctea-21%2FShadowOS%2Ctea-21%2FMPMC-Project%2Ctea-21%2FLearning-ML%2Ctea-21%2FTranspiler%2Ctea-21%2FZeroTrust-Finance-Tracker&variant=wow&v=wow-projects-1&mode=dark" width="100%" alt="Taanush Emmanuel Abraham animated project constellation" />
+  <source media="(prefers-color-scheme: light)" srcset="./constellation-light.svg" />
+  <img src="./constellation-dark.svg" width="100%" alt="Taanush Emmanuel Abraham animated project constellation" />
 </picture>
 
 <table width="100%">
