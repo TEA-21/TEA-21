@@ -1,10 +1,10 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=tea-21&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F165890389%3Fu%3D8977f3e48ace105ccb458bf6d090c191147a5000%26v%3D4&variant=living-identity&label=Taanush%20Emmanuel%20Abraham&v=wow-living-identity-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/hero?username=tea-21&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F165890389%3Fu%3D8977f3e48ace105ccb458bf6d090c191147a5000%26v%3D4&variant=living-identity&label=Taanush%20Emmanuel%20Abraham&v=wow-living-identity-1&mode=dark" width="100%" alt="Taanush Emmanuel Abraham animated Living Identity portrait and ASCII name" />
+  <source media="(prefers-color-scheme: light)" srcset="./hero-light.svg" />
+  <img src="./hero-dark.svg" width="100%" alt="Taanush Emmanuel Abraham animated Living Identity portrait and ASCII name" />
 </picture>
-<p><strong>Frontend or full-stack engineer</strong> · the public internet</p>
+<p><strong>Systems & Machine Learning Engineer</strong> · the public internet</p>
 <p>Building useful things and sharing the work in public.</p>
 <p><a href="https://github.com/tea-21">GitHub</a></p>
 </div>
